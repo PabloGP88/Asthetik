@@ -1,0 +1,2509 @@
+fileFormatVersion: 2
+guid: 6012a675f53b6471da4abb5d88588927
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2430514671326224574
+    second: Fresco Splash 14_0
+  - first:
+      213: 6423748826222672405
+    second: Fresco Splash 14_1
+  - first:
+      213: -3273339158378514555
+    second: Fresco Splash 14_2
+  - first:
+      213: -618725368189881765
+    second: Fresco Splash 14_3
+  - first:
+      213: -4195413920174685543
+    second: Fresco Splash 14_4
+  - first:
+      213: 5300063280719998929
+    second: Fresco Splash 14_5
+  - first:
+      213: -3886435805825131969
+    second: Fresco Splash 14_6
+  - first:
+      213: 6263977339264899119
+    second: Fresco Splash 14_7
+  - first:
+      213: 3620531399168792124
+    second: Fresco Splash 14_8
+  - first:
+      213: -8675324340026309897
+    second: Fresco Splash 14_9
+  - first:
+      213: -2123545633818283777
+    second: Fresco Splash 14_10
+  - first:
+      213: -2334974940486417981
+    second: Fresco Splash 14_11
+  - first:
+      213: 481501687093412963
+    second: Fresco Splash 14_12
+  - first:
+      213: 3981743969359942021
+    second: Fresco Splash 14_13
+  - first:
+      213: 3528394709164399144
+    second: Fresco Splash 14_14
+  - first:
+      213: 5157473591142909448
+    second: Fresco Splash 14_15
+  - first:
+      213: -964567176118951919
+    second: Fresco Splash 14_16
+  - first:
+      213: -3096603540211908220
+    second: Fresco Splash 14_17
+  - first:
+      213: 7516267435304053349
+    second: Fresco Splash 14_18
+  - first:
+      213: -7654881157504864202
+    second: Fresco Splash 14_19
+  - first:
+      213: 8108056052692405816
+    second: Fresco Splash 14_20
+  - first:
+      213: 1359999677323286278
+    second: Fresco Splash 14_21
+  - first:
+      213: -7610275202281377022
+    second: Fresco Splash 14_22
+  - first:
+      213: -3846701668442487578
+    second: Fresco Splash 14_23
+  - first:
+      213: 4133969878511806494
+    second: Fresco Splash 14_24
+  - first:
+      213: 3216733025304675247
+    second: Fresco Splash 14_25
+  - first:
+      213: -334240858250493044
+    second: Fresco Splash 14_26
+  - first:
+      213: -5352299529654371628
+    second: Fresco Splash 14_27
+  - first:
+      213: -2052879587226831999
+    second: Fresco Splash 14_28
+  - first:
+      213: 3637058756664179684
+    second: Fresco Splash 14_29
+  - first:
+      213: -963859968771900062
+    second: Fresco Splash 14_30
+  - first:
+      213: 903844251964220720
+    second: Fresco Splash 14_31
+  - first:
+      213: 7787265942280364138
+    second: Fresco Splash 14_32
+  - first:
+      213: -4955344972029807585
+    second: Fresco Splash 14_33
+  - first:
+      213: -1376594675798748208
+    second: Fresco Splash 14_34
+  - first:
+      213: 7596237665506237065
+    second: Fresco Splash 14_35
+  - first:
+      213: -8167636446272411657
+    second: Fresco Splash 14_36
+  - first:
+      213: 1498137023216507904
+    second: Fresco Splash 14_37
+  - first:
+      213: 6658310218783910380
+    second: Fresco Splash 14_38
+  - first:
+      213: 5462913243365287128
+    second: Fresco Splash 14_39
+  - first:
+      213: -5755341519735611745
+    second: Fresco Splash 14_40
+  - first:
+      213: -2352296856774613198
+    second: Fresco Splash 14_41
+  - first:
+      213: 4793470818569251235
+    second: Fresco Splash 14_42
+  - first:
+      213: -2349121498146338044
+    second: Fresco Splash 14_43
+  - first:
+      213: 4347865508114559967
+    second: Fresco Splash 14_44
+  - first:
+      213: -3982308688751793859
+    second: Fresco Splash 14_45
+  - first:
+      213: -3880072683546287366
+    second: Fresco Splash 14_46
+  - first:
+      213: -1673807500669996341
+    second: Fresco Splash 14_47
+  - first:
+      213: 6910863222796511348
+    second: Fresco Splash 14_48
+  - first:
+      213: 6714809303025026585
+    second: Fresco Splash 14_49
+  - first:
+      213: 9004444172952602278
+    second: Fresco Splash 14_50
+  - first:
+      213: -1470380516930977578
+    second: Fresco Splash 14_51
+  - first:
+      213: 4658032544238624553
+    second: Fresco Splash 14_52
+  - first:
+      213: -2565018052665342878
+    second: Fresco Splash 14_53
+  - first:
+      213: 2883944664068390351
+    second: Fresco Splash 14_54
+  - first:
+      213: -8190030078004274043
+    second: Fresco Splash 14_55
+  - first:
+      213: -4117270549692862048
+    second: Fresco Splash 14_56
+  - first:
+      213: 4375433754851195679
+    second: Fresco Splash 14_57
+  - first:
+      213: -3526020881770020661
+    second: Fresco Splash 14_58
+  - first:
+      213: 2934294126461587742
+    second: Fresco Splash 14_59
+  - first:
+      213: 441265089152170985
+    second: Fresco Splash 14_60
+  - first:
+      213: -2263796672009155978
+    second: Fresco Splash 14_61
+  - first:
+      213: 7662310227444963339
+    second: Fresco Splash 14_62
+  - first:
+      213: -3601868310239566819
+    second: Fresco Splash 14_63
+  - first:
+      213: -9086417600679264028
+    second: Fresco Splash 14_64
+  - first:
+      213: -8870908138268925232
+    second: Fresco Splash 14_65
+  - first:
+      213: -5895011807109284397
+    second: Fresco Splash 14_66
+  - first:
+      213: -541854092272766006
+    second: Fresco Splash 14_67
+  - first:
+      213: 5572477812541651297
+    second: Fresco Splash 14_68
+  - first:
+      213: 212962398749450001
+    second: Fresco Splash 14_69
+  - first:
+      213: -4276439215388592536
+    second: Fresco Splash 14_70
+  - first:
+      213: -2766672263874261859
+    second: Fresco Splash 14_71
+  - first:
+      213: 5009616494718144083
+    second: Fresco Splash 14_72
+  - first:
+      213: -1324270486909889372
+    second: Fresco Splash 14_73
+  - first:
+      213: -3326526237429212165
+    second: Fresco Splash 14_74
+  - first:
+      213: -6087982511723984739
+    second: Fresco Splash 14_75
+  - first:
+      213: 2409390019544083052
+    second: Fresco Splash 14_76
+  - first:
+      213: -1297059221686254182
+    second: Fresco Splash 14_77
+  - first:
+      213: -8954286842061327770
+    second: Fresco Splash 14_78
+  - first:
+      213: -121939626576491845
+    second: Fresco Splash 14_79
+  - first:
+      213: -1586565773481208177
+    second: Fresco Splash 14_80
+  - first:
+      213: 2434924124764140074
+    second: Fresco Splash 14_81
+  - first:
+      213: -3731166458095439235
+    second: Fresco Splash 14_82
+  - first:
+      213: -5912861250321060882
+    second: Fresco Splash 14_83
+  - first:
+      213: -8645292326104341980
+    second: Fresco Splash 14_84
+  - first:
+      213: -4729430996802936290
+    second: Fresco Splash 14_85
+  - first:
+      213: -3626148068831091081
+    second: Fresco Splash 14_86
+  - first:
+      213: -5434058301583388777
+    second: Fresco Splash 14_87
+  - first:
+      213: -861558306490305079
+    second: Fresco Splash 14_88
+  - first:
+      213: -4588635504093785389
+    second: Fresco Splash 14_89
+  - first:
+      213: 5623063804511457724
+    second: Fresco Splash 14_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fresco Splash 14_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 125
+        width: 1798
+        height: 1838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f993aa8c3154ed0800000000000000
+      internalID: -2430514671326224574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_1
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1257
+        width: 285
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ab551e58db52950800000000000000
+      internalID: 6423748826222672405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_2
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1249
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587f87bd063c292d0800000000000000
+      internalID: -3273339158378514555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_3
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1229
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52f4874e88d967f0800000000000000
+      internalID: -618725368189881765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_4
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1244
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99242429445e6c5c0800000000000000
+      internalID: -4195413920174685543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_5
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1244
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df286e097b9d8940800000000000000
+      internalID: 5300063280719998929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_6
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1229
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a1f6fc93b901ac0800000000000000
+      internalID: -3886435805825131969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_7
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1254
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f281bfbb33e1ee650800000000000000
+      internalID: 6263977339264899119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_8
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1232
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c369a990026be3230800000000000000
+      internalID: 3620531399168792124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_9
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1245
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f28e610a7e0b9780800000000000000
+      internalID: -8675324340026309897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_10
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1221
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0fdef3f76a782e0800000000000000
+      internalID: -2123545633818283777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_11
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1212
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c14ed0b9a0889fd0800000000000000
+      internalID: -2334974940486417981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_12
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1233
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36444f9bb33aea600800000000000000
+      internalID: 481501687093412963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_13
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1236
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581d0404b0ff14730800000000000000
+      internalID: 3981743969359942021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_14
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1217
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a9c133b4067f030800000000000000
+      internalID: 3528394709164399144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_15
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1170
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806088ad7e6039740800000000000000
+      internalID: 5157473591142909448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_16
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1223
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110ad69834b2d92f0800000000000000
+      internalID: -964567176118951919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_17
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1212
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481c3779c77a605d0800000000000000
+      internalID: -3096603540211908220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_18
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1175
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a6226d8652f4860800000000000000
+      internalID: 7516267435304053349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_19
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6307711052664c590800000000000000
+      internalID: -7654881157504864202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_20
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1194
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ecfa7850a958070800000000000000
+      internalID: 8108056052692405816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_21
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1190
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607108d3080bfd210800000000000000
+      internalID: 1359999677323286278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_22
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1198
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203fd05460fd26690800000000000000
+      internalID: -7610275202281377022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_23
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1182
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e445979635cd9ac0800000000000000
+      internalID: -3846701668442487578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_24
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1176
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e186cd8a3bfce5930800000000000000
+      internalID: 4133969878511806494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_25
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1143
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa38d8eb4a124ac20800000000000000
+      internalID: 3216733025304675247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_26
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1180
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83ce86d5b98c5bf0800000000000000
+      internalID: -334240858250493044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_27
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1182
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daf57b7fefc8b5b0800000000000000
+      internalID: -5352299529654371628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_28
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1154
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183b1bc54e4b283e0800000000000000
+      internalID: -2052879587226831999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_29
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1167
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb31325bad697230800000000000000
+      internalID: 3637058756664179684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_30
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1162
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26db124177eaf92f0800000000000000
+      internalID: -963859968771900062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_31
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0352b92fe891b8c00800000000000000
+      internalID: 903844251964220720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_32
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1139
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a606e15ad1de11c60800000000000000
+      internalID: 7787265942280364138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_33
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1149
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1435a2a0041b3bb0800000000000000
+      internalID: -4955344972029807585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_34
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1156
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d352559f6a55ece0800000000000000
+      internalID: -1376594675798748208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_35
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1134
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a11f109e14b6960800000000000000
+      internalID: 7596237665506237065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_36
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1142
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f726651de9b6ae80800000000000000
+      internalID: -8167636446272411657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_37
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1148
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c5ea56fa37ac410800000000000000
+      internalID: 1498137023216507904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_38
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1132
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9e7f2edd1176c50800000000000000
+      internalID: 6658310218783910380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_39
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1152
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4a09da6aa20db40800000000000000
+      internalID: 5462913243365287128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_40
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 1134
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e1a13816be020b0800000000000000
+      internalID: -5755341519735611745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_41
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1131
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2376ea5c876fa5fd0800000000000000
+      internalID: -2352296856774613198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_42
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1141
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a965060054d58240800000000000000
+      internalID: 4793470818569251235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_43
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1127
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b01c0917e366fd0800000000000000
+      internalID: -2349121498146338044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_44
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 848
+        width: 221
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd37756c4a8b65c30800000000000000
+      internalID: 4347865508114559967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_45
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1129
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d396ff4c85ffbb8c0800000000000000
+      internalID: -3982308688751793859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_46
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1116
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2e68aa376372ac0800000000000000
+      internalID: -3880072683546287366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_47
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1105
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc23e2442f075c8e0800000000000000
+      internalID: -1673807500669996341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_48
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1125
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478e81e5c7158ef50800000000000000
+      internalID: 6910863222796511348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_49
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1127
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9168b490c7bcf2d50800000000000000
+      internalID: 6714809303025026585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_50
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1111
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a60da8844636fc70800000000000000
+      internalID: 9004444172952602278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_51
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d08ca3d5b8289be0800000000000000
+      internalID: -1470380516930977578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_52
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 1102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f5d8f6be7a4a040800000000000000
+      internalID: 4658032544238624553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 907
+        width: 105
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2640b60dba9376cd0800000000000000
+      internalID: -2565018052665342878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_54
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1095
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdfda56464d50820800000000000000
+      internalID: 2883944664068390351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_55
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1081
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c5ac4690b275e80800000000000000
+      internalID: -8190030078004274043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_56
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1049
+        width: 8
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a13161df348cd6c0800000000000000
+      internalID: -4117270549692862048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_57
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1075
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bb82861d9a8bc30800000000000000
+      internalID: 4375433754851195679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_58
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1049
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc00d7f80be011fc0800000000000000
+      internalID: -3526020881770020661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_59
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1034
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11124226f4b8b820800000000000000
+      internalID: 2934294126461587742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_60
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1017
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb32bab240bf1600800000000000000
+      internalID: 441265089152170985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_61
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1039
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ace21cbe06590e0800000000000000
+      internalID: -2263796672009155978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_62
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1032
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0813b12e8ef55a60800000000000000
+      internalID: 7662310227444963339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_63
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1019
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d142f68fad7930ec0800000000000000
+      internalID: -3601868310239566819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_64
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 906
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0c7a6855f86e180800000000000000
+      internalID: -9086417600679264028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_65
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 960
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2eb5f5c0434e480800000000000000
+      internalID: -8870908138268925232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_66
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 998
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd748a9ef5b03ea0800000000000000
+      internalID: -5895011807109284397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_67
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 496
+        width: 233
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac37dfde292fa78f0800000000000000
+      internalID: -541854092272766006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_68
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 919
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1697a47db0b655d40800000000000000
+      internalID: 5572477812541651297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_69
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 920
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fd9ff5c2894f200800000000000000
+      internalID: 212962398749450001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_70
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 929
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866763fe03907a4c0800000000000000
+      internalID: -4276439215388592536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_71
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 878
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c49d50c3eca99d0800000000000000
+      internalID: -2766672263874261859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_72
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 877
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ecc9ce8abb58540800000000000000
+      internalID: 5009616494718144083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_73
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 882
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4d339220f3f9de0800000000000000
+      internalID: -1324270486909889372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_74
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 899
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbd302030ec5d1d0800000000000000
+      internalID: -3326526237429212165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_75
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 883
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98c6ed3924238ba0800000000000000
+      internalID: -6087982511723984739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_76
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 866
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6aeb40157fdf6120800000000000000
+      internalID: 2409390019544083052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_77
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 862
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a950fbe828beffde0800000000000000
+      internalID: -1297059221686254182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_78
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 843
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662faf91f8bfbb380800000000000000
+      internalID: -8954286842061327770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_79
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 814
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba4dd14e88ce4ef0800000000000000
+      internalID: -121939626576491845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_80
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 828
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f861cd2c5d26bf9e0800000000000000
+      internalID: -1586565773481208177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_81
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 809
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22789737969ac120800000000000000
+      internalID: 2434924124764140074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_82
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 806
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d727e5bffdb383cc0800000000000000
+      internalID: -3731166458095439235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_83
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 779
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebe070450c41fda0800000000000000
+      internalID: -5912861250321060882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_84
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 749
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422e3232f60c50880800000000000000
+      internalID: -8645292326104341980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_85
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 740
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12e6d5e09fad5eb0800000000000000
+      internalID: -4729430996802936290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_86
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 735
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776aa562b855dadc0800000000000000
+      internalID: -3626148068831091081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_87
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 733
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f0c5df3c85694b0800000000000000
+      internalID: -5434058301583388777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_88
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 733
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5bb54f8412b04f0800000000000000
+      internalID: -861558306490305079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_89
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 731
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d29eb61254e150c0800000000000000
+      internalID: -4588635504093785389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fresco Splash 14_90
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 555
+        width: 204
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb11349ecb2290e40800000000000000
+      internalID: 5623063804511457724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fresco Splash 14_0: -2430514671326224574
+      Fresco Splash 14_1: 6423748826222672405
+      Fresco Splash 14_10: -2123545633818283777
+      Fresco Splash 14_11: -2334974940486417981
+      Fresco Splash 14_12: 481501687093412963
+      Fresco Splash 14_13: 3981743969359942021
+      Fresco Splash 14_14: 3528394709164399144
+      Fresco Splash 14_15: 5157473591142909448
+      Fresco Splash 14_16: -964567176118951919
+      Fresco Splash 14_17: -3096603540211908220
+      Fresco Splash 14_18: 7516267435304053349
+      Fresco Splash 14_19: -7654881157504864202
+      Fresco Splash 14_2: -3273339158378514555
+      Fresco Splash 14_20: 8108056052692405816
+      Fresco Splash 14_21: 1359999677323286278
+      Fresco Splash 14_22: -7610275202281377022
+      Fresco Splash 14_23: -3846701668442487578
+      Fresco Splash 14_24: 4133969878511806494
+      Fresco Splash 14_25: 3216733025304675247
+      Fresco Splash 14_26: -334240858250493044
+      Fresco Splash 14_27: -5352299529654371628
+      Fresco Splash 14_28: -2052879587226831999
+      Fresco Splash 14_29: 3637058756664179684
+      Fresco Splash 14_3: -618725368189881765
+      Fresco Splash 14_30: -963859968771900062
+      Fresco Splash 14_31: 903844251964220720
+      Fresco Splash 14_32: 7787265942280364138
+      Fresco Splash 14_33: -4955344972029807585
+      Fresco Splash 14_34: -1376594675798748208
+      Fresco Splash 14_35: 7596237665506237065
+      Fresco Splash 14_36: -8167636446272411657
+      Fresco Splash 14_37: 1498137023216507904
+      Fresco Splash 14_38: 6658310218783910380
+      Fresco Splash 14_39: 5462913243365287128
+      Fresco Splash 14_4: -4195413920174685543
+      Fresco Splash 14_40: -5755341519735611745
+      Fresco Splash 14_41: -2352296856774613198
+      Fresco Splash 14_42: 4793470818569251235
+      Fresco Splash 14_43: -2349121498146338044
+      Fresco Splash 14_44: 4347865508114559967
+      Fresco Splash 14_45: -3982308688751793859
+      Fresco Splash 14_46: -3880072683546287366
+      Fresco Splash 14_47: -1673807500669996341
+      Fresco Splash 14_48: 6910863222796511348
+      Fresco Splash 14_49: 6714809303025026585
+      Fresco Splash 14_5: 5300063280719998929
+      Fresco Splash 14_50: 9004444172952602278
+      Fresco Splash 14_51: -1470380516930977578
+      Fresco Splash 14_52: 4658032544238624553
+      Fresco Splash 14_53: -2565018052665342878
+      Fresco Splash 14_54: 2883944664068390351
+      Fresco Splash 14_55: -8190030078004274043
+      Fresco Splash 14_56: -4117270549692862048
+      Fresco Splash 14_57: 4375433754851195679
+      Fresco Splash 14_58: -3526020881770020661
+      Fresco Splash 14_59: 2934294126461587742
+      Fresco Splash 14_6: -3886435805825131969
+      Fresco Splash 14_60: 441265089152170985
+      Fresco Splash 14_61: -2263796672009155978
+      Fresco Splash 14_62: 7662310227444963339
+      Fresco Splash 14_63: -3601868310239566819
+      Fresco Splash 14_64: -9086417600679264028
+      Fresco Splash 14_65: -8870908138268925232
+      Fresco Splash 14_66: -5895011807109284397
+      Fresco Splash 14_67: -541854092272766006
+      Fresco Splash 14_68: 5572477812541651297
+      Fresco Splash 14_69: 212962398749450001
+      Fresco Splash 14_7: 6263977339264899119
+      Fresco Splash 14_70: -4276439215388592536
+      Fresco Splash 14_71: -2766672263874261859
+      Fresco Splash 14_72: 5009616494718144083
+      Fresco Splash 14_73: -1324270486909889372
+      Fresco Splash 14_74: -3326526237429212165
+      Fresco Splash 14_75: -6087982511723984739
+      Fresco Splash 14_76: 2409390019544083052
+      Fresco Splash 14_77: -1297059221686254182
+      Fresco Splash 14_78: -8954286842061327770
+      Fresco Splash 14_79: -121939626576491845
+      Fresco Splash 14_8: 3620531399168792124
+      Fresco Splash 14_80: -1586565773481208177
+      Fresco Splash 14_81: 2434924124764140074
+      Fresco Splash 14_82: -3731166458095439235
+      Fresco Splash 14_83: -5912861250321060882
+      Fresco Splash 14_84: -8645292326104341980
+      Fresco Splash 14_85: -4729430996802936290
+      Fresco Splash 14_86: -3626148068831091081
+      Fresco Splash 14_87: -5434058301583388777
+      Fresco Splash 14_88: -861558306490305079
+      Fresco Splash 14_89: -4588635504093785389
+      Fresco Splash 14_9: -8675324340026309897
+      Fresco Splash 14_90: 5623063804511457724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

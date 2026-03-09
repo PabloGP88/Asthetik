@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 6a532248a574b4471b050b82112905eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3304488191247534351
+    second: Tarraleah Splash 10_0
+  - first:
+      213: 7209842669737894947
+    second: Tarraleah Splash 10_1
+  - first:
+      213: 8959899657518878108
+    second: Tarraleah Splash 10_2
+  - first:
+      213: 3830346705642819058
+    second: Tarraleah Splash 10_3
+  - first:
+      213: -3291010089594222154
+    second: Tarraleah Splash 10_4
+  - first:
+      213: 801750660575839625
+    second: Tarraleah Splash 10_5
+  - first:
+      213: 4683828253304710415
+    second: Tarraleah Splash 10_6
+  - first:
+      213: 1677697149647714169
+    second: Tarraleah Splash 10_7
+  - first:
+      213: 4720097675649509641
+    second: Tarraleah Splash 10_8
+  - first:
+      213: 6348302178849525582
+    second: Tarraleah Splash 10_9
+  - first:
+      213: 3585461130249889630
+    second: Tarraleah Splash 10_10
+  - first:
+      213: 8523854955318309206
+    second: Tarraleah Splash 10_11
+  - first:
+      213: 8653080830446907840
+    second: Tarraleah Splash 10_12
+  - first:
+      213: -7588473029633969810
+    second: Tarraleah Splash 10_13
+  - first:
+      213: 3910618256439362129
+    second: Tarraleah Splash 10_14
+  - first:
+      213: 26109285705493755
+    second: Tarraleah Splash 10_15
+  - first:
+      213: 1240563106592028850
+    second: Tarraleah Splash 10_16
+  - first:
+      213: -4959911833851377943
+    second: Tarraleah Splash 10_17
+  - first:
+      213: 5342907423740536521
+    second: Tarraleah Splash 10_18
+  - first:
+      213: 1073464369026774749
+    second: Tarraleah Splash 10_19
+  - first:
+      213: -1037892422680795637
+    second: Tarraleah Splash 10_20
+  - first:
+      213: -4799357343986313519
+    second: Tarraleah Splash 10_21
+  - first:
+      213: 5780528530881393166
+    second: Tarraleah Splash 10_22
+  - first:
+      213: -7939414178543323066
+    second: Tarraleah Splash 10_23
+  - first:
+      213: -3956338746448807304
+    second: Tarraleah Splash 10_24
+  - first:
+      213: 5727824393732252283
+    second: Tarraleah Splash 10_25
+  - first:
+      213: -4547917556429882698
+    second: Tarraleah Splash 10_26
+  - first:
+      213: 3074399251122976433
+    second: Tarraleah Splash 10_27
+  - first:
+      213: 5469434025212146303
+    second: Tarraleah Splash 10_28
+  - first:
+      213: 4899985854955639644
+    second: Tarraleah Splash 10_29
+  - first:
+      213: 5944757911263130307
+    second: Tarraleah Splash 10_30
+  - first:
+      213: 8432685975079537585
+    second: Tarraleah Splash 10_31
+  - first:
+      213: -7481861104319404749
+    second: Tarraleah Splash 10_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1973
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0948c38086ebdd20800000000000000
+      internalID: 3304488191247534351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2007
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3246e2075b18e0460800000000000000
+      internalID: 7209842669737894947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2019
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d8e855445f75c70800000000000000
+      internalID: 8959899657518878108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2027
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd8d64e800282530800000000000000
+      internalID: 3830346705642819058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2042
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9828192cbf352d0800000000000000
+      internalID: -3291010089594222154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2040
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985ce0a5af3602b00800000000000000
+      internalID: 801750660575839625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2038
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f056a2bfafc400140800000000000000
+      internalID: 4683828253304710415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2042
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977ff653ba0684710800000000000000
+      internalID: 1677697149647714169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_8
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2028
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9096c3ee3d7218140800000000000000
+      internalID: 4720097675649509641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2034
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f0a296233b91850800000000000000
+      internalID: 6348302178849525582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2035
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57e380c6ed12c130800000000000000
+      internalID: 3585461130249889630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_11
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2017
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65173b8abe0da4670800000000000000
+      internalID: 8523854955318309206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2042
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1b7875b2be51870800000000000000
+      internalID: 8653080830446907840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_13
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2042
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61f8092cf350b690800000000000000
+      internalID: -7588473029633969810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_14
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2038
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152c93bb59e454630800000000000000
+      internalID: 3910618256439362129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_15
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2039
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfca0dbc142cc5000800000000000000
+      internalID: 26109285705493755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_16
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2038
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b87fd9929d573110800000000000000
+      internalID: 1240563106592028850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_17
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2032
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e64802477ada2bb0800000000000000
+      internalID: -4959911833851377943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_18
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1993
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c62ad37ef1d52a40800000000000000
+      internalID: 5342907423740536521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2030
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd631eaf726b5ee00800000000000000
+      internalID: 1073464369026774749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_20
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2029
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06aa0f275aa891f0800000000000000
+      internalID: -1037892422680795637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2014
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d698897ce1456db0800000000000000
+      internalID: -4799357343986313519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2035
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0232318210983050800000000000000
+      internalID: 5780528530881393166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2029
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b9339ed881d190800000000000000
+      internalID: -7939414178543323066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_24
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2035
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87afdc62fd24819c0800000000000000
+      internalID: -3956338746448807304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_25
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2030
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b726a3450f15d7f40800000000000000
+      internalID: 5727824393732252283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_26
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2026
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bafb3d041d82e0c0800000000000000
+      internalID: -4547917556429882698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_27
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2030
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b679ec74d57aaa20800000000000000
+      internalID: 3074399251122976433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_28
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2028
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f727433844557eb40800000000000000
+      internalID: 5469434025212146303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53d1118c2f300440800000000000000
+      internalID: 4899985854955639644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c23888d2d5008250800000000000000
+      internalID: 5944757911263130307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbc80f473be60570800000000000000
+      internalID: 8432685975079537585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarraleah Splash 10_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335ea3a57f61b2890800000000000000
+      internalID: -7481861104319404749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tarraleah Splash 10_0: 3304488191247534351
+      Tarraleah Splash 10_1: 7209842669737894947
+      Tarraleah Splash 10_10: 3585461130249889630
+      Tarraleah Splash 10_11: 8523854955318309206
+      Tarraleah Splash 10_12: 8653080830446907840
+      Tarraleah Splash 10_13: -7588473029633969810
+      Tarraleah Splash 10_14: 3910618256439362129
+      Tarraleah Splash 10_15: 26109285705493755
+      Tarraleah Splash 10_16: 1240563106592028850
+      Tarraleah Splash 10_17: -4959911833851377943
+      Tarraleah Splash 10_18: 5342907423740536521
+      Tarraleah Splash 10_19: 1073464369026774749
+      Tarraleah Splash 10_2: 8959899657518878108
+      Tarraleah Splash 10_20: -1037892422680795637
+      Tarraleah Splash 10_21: -4799357343986313519
+      Tarraleah Splash 10_22: 5780528530881393166
+      Tarraleah Splash 10_23: -7939414178543323066
+      Tarraleah Splash 10_24: -3956338746448807304
+      Tarraleah Splash 10_25: 5727824393732252283
+      Tarraleah Splash 10_26: -4547917556429882698
+      Tarraleah Splash 10_27: 3074399251122976433
+      Tarraleah Splash 10_28: 5469434025212146303
+      Tarraleah Splash 10_29: 4899985854955639644
+      Tarraleah Splash 10_3: 3830346705642819058
+      Tarraleah Splash 10_30: 5944757911263130307
+      Tarraleah Splash 10_31: 8432685975079537585
+      Tarraleah Splash 10_32: -7481861104319404749
+      Tarraleah Splash 10_4: -3291010089594222154
+      Tarraleah Splash 10_5: 801750660575839625
+      Tarraleah Splash 10_6: 4683828253304710415
+      Tarraleah Splash 10_7: 1677697149647714169
+      Tarraleah Splash 10_8: 4720097675649509641
+      Tarraleah Splash 10_9: 6348302178849525582
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
